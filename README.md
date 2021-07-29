@@ -26,5 +26,5 @@
 [![make-github-pseudonymous-again/qrap](https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=make-github-pseudonymous-again&repo=qrap&show_owner=false)](https://github.com/make-github-pseudonymous-again/qrap)
 [![make-github-pseudonymous-again/spqr](https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=make-github-pseudonymous-again&repo=spqr&show_owner=false)](https://github.com/make-github-pseudonymous-again/spqr)
 [![make-github-pseudonymous-again/geez](https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=make-github-pseudonymous-again&repo=geez&show_owner=false)](https://github.com/make-github-pseudonymous-again/geez)
-[![make-github-pseudonymous-again/js-sat](https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=make-github-pseudonymous-again&repo=js-sat&show_owner=false)](https://github.com/make-github-pseudonymous-again/js-sat)
+[![computational-problem-solving/sat](https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=computational-problem-solving&repo=sat&show_owner=false)](https://github.com/computational-problem-solving/sat)
 [![make-github-pseudonymous-again/memoize](https://github-readme-stats.vercel.app/api/pin/?theme=gotham&username=make-github-pseudonymous-again&repo=memoize&show_owner=false)](https://github.com/make-github-pseudonymous-again/memoize)
