@@ -15,7 +15,7 @@ use. Contact me.
 
 Grouped according to an arbitrary partition.
 
-#### If your democratic representatives do not do it for you, claim your privacy back!
+#### If your democratically elected representatives do not do it for you, claim your privacy back!
 
 NB: This also works if you are not represented.
 
