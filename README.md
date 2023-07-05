@@ -60,6 +60,6 @@ analogy implied by the description of the second alternative.
 
 #### Distribute! (ordered by a weighted average of alphaness and experimentality)
   - [ipfs](https://github.com/ipfs/go-ipfs): Distributed public file system for static content.
-  - [beaker](https://github.com/beakerbrowser/beaker): Distributed-web browser.
-  - [radicle](https://github.com/radicle-dev/radicle-upstream): Distributed code collaboration.
   - [meething](https://github.com/meething/meething): Distributed videoconferencing.
+  - [~beaker~](https://github.com/beakerbrowser/beaker): Distributed-web browser.
+  - [~radicle~](https://github.com/radicle-dev/radicle-upstream): Distributed code collaboration.
